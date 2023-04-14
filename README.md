@@ -1,7 +1,6 @@
 ## 👋🏾 Olá, sou Giovanni Marques
 ## Seja bem vindo ao meu GitHub
 
----
 
 ## <img width="45" alt="about" src="https://em-content.zobj.net/thumbs/120/google/350/technologist-medium-dark-skin-tone_1f9d1-1f3fe-200d-1f4bb.png"> Sobre mim
 
