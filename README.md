@@ -1,6 +1,4 @@
-## 👋🏾 Olá, sou Giovanni Marques, seja bem vindo ao meu GitHub
-
-## <img width="45" alt="about" src="https://em-content.zobj.net/thumbs/120/google/350/technologist-medium-dark-skin-tone_1f9d1-1f3fe-200d-1f4bb.png"> Sobre mim
+<h1 style="color: #44AEFB"><img width="32" alt="about" src="https://em-content.zobj.net/thumbs/160/google/241/technologist-medium-dark-skin-tone_1f9d1-1f3fe-200d-1f4bb.png"> Giovanni Marques</h1>
 
 ```JavaScript
 const GMarques30 = {
@@ -10,20 +8,40 @@ const GMarques30 = {
 };
 ```
 
-## 🚀 Minha Stack
+<h2 style="color: #44AEFB">⚙️ Linguagens e Ferramentas</h2>
 
-<code><img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></code></code>
-<code><img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></code>
-<code><img height="32" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/></code>
-<code><img height="32" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/></code>
+<div>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img alt="HTML" height="32px" style="padding:10px 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img  alt="CSS" height="32px" style="padding:10px 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img  alt="JavaScript" height="32px" style="padding:10px 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  </a>
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+    <img  alt="Java" height="32px" style="padding:10px 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img  alt="Git" height="32px" style="padding:10px 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img  alt="vscode" height="32px" style="padding:10px 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  </a>
+  <a href="https://eclipseide.org" target="_blank" rel="noreferrer">
+    <img alt="eclipse" height="32px" style="padding:10px 10px 0 0;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eclipse-SVG.svg/48px-Eclipse-SVG.svg.png">
+  </a>
+</div>
 
-## ⭐ GitHub
+<h2 style="color: #44AEFB">⭐ GitHub</h2>
+
 <div align="center">
   <a href="https://github.com/GMarques30">
   <img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=GMarques30&theme=radical&show_icons=true"/>
   <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMarques30&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## 📱 Contato
+<h2 style="color: #44AEFB">📱 Contato</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gmarques30/)
