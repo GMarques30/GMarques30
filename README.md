@@ -1,16 +1,38 @@
-<h1 align="center">Hi 👋🏾, I'm Giovanni Marques</h1>
-<!-- <h2 align="center">A passionate developer from Brasil</h2> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GMarques30png" alt="GMarques30png" /> </p>
+## 👋🏾 Olá, sou Giovanni Marques
+## Seja bem vindo ao meu GitHub
+
+---
+
+## <img width="45" alt="about" src="https://em-content.zobj.net/thumbs/120/google/350/technologist-medium-dark-skin-tone_1f9d1-1f3fe-200d-1f4bb.png"> Sobre mim
+
+```JavaScript
+const GMarques30 = {
+  nome: "GIOVANNI MARQUES",
+  area: "DESENVOLVIMENTO WEB",
+  linguagens: ["JavaScript"],
+};
+```
+
+---
+
+## 🚀 Minha Stack
+
+<code><img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></code></code>
+<code><img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></code>
+<code><img height="32" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/></code>
+<code><img height="32" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/></code>
+
+---
+
+## ⭐ GitHub
+<div align="center">
+  <a href="https://github.com/GMarques30">
+  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=GMarques30&theme=radical&show_icons=true"/>
+  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMarques30&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+---
+
+## 📱 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gmarques30/)
-
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-
-![Marques's GitHub stats](https://github-readme-stats.vercel.app/api?username=GMarques30&show_icons=true&theme=radical)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMarques30&layout=compact)
