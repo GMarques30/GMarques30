@@ -12,7 +12,7 @@ const GMarques30 = {
 
 <div>
   <a href="https://react.dev" target="_blank" rel="noreferrer">
-    <img alt="HTML" height="32px" style="padding:10px 10px 0 0;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.js"/>
+    <img alt="HTML" height="32px" style="padding:10px 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react.js"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img  alt="JavaScript" height="32px" style="padding:10px 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
@@ -27,7 +27,7 @@ const GMarques30 = {
     <img  alt="CSS" height="32px" style="padding:10px 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img  alt="CSS" height="32px" style="padding:10px 10px 0 0;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sass.svg"/>
+    <img  alt="CSS" height="32px" style="padding:10px 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass.svg"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img  alt="Git" height="32px" style="padding:10px 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
