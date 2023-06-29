@@ -11,17 +11,23 @@ const GMarques30 = {
 <h2 style="color: #44AEFB">⚙️ Linguagens e Ferramentas</h2>
 
 <div>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img alt="HTML" height="32px" style="padding:10px 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img  alt="CSS" height="32px" style="padding:10px 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <a href="https://react.dev" target="_blank" rel="noreferrer">
+    <img alt="HTML" height="32px" style="padding:10px 10px 0 0;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.js"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img  alt="JavaScript" height="32px" style="padding:10px 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   </a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
     <img  alt="Java" height="32px" style="padding:10px 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img alt="HTML" height="32px" style="padding:10px 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img  alt="CSS" height="32px" style="padding:10px 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img  alt="CSS" height="32px" style="padding:10px 10px 0 0;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sass.svg"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img  alt="Git" height="32px" style="padding:10px 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
