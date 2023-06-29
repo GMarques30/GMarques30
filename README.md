@@ -4,7 +4,7 @@
 const GMarques30 = {
   nome: "GIOVANNI MARQUES",
   area: "DESENVOLVIMENTO WEB",
-  linguagens: ["React, JavaScript, TypeScript, HTML, CSS, Sass"],
+  linguagens: ["React, JavaScript"],
 };
 ```
 
