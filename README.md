@@ -26,7 +26,7 @@ const GMarques30 = {
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img  alt="CSS" height="32px" style="padding:10px 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img  alt="SASS" height="32px" style="padding:10px 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
