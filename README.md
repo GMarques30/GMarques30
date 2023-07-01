@@ -44,7 +44,6 @@ const GMarques30 = {
 
 <div align="center">
   <a href="https://github.com/GMarques30">
-  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=GMarques30&theme=radical&show_icons=true"/>
   <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMarques30&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
