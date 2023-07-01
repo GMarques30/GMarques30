@@ -42,7 +42,7 @@ const GMarques30 = {
 
 <h2 style="color: #44AEFB">⭐ GitHub</h2>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/GMarques30">
   <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMarques30&layout=compact&langs_count=7&theme=radical"/>
 </div>
