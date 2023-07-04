@@ -50,7 +50,7 @@ const GMarques30 = {
 <h2 style="color: #44AEFB">⭐ Roadmap.sh</h2>
 
 <div align="left">
-  [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64a37bced99c9d6731ad2ba1?variant=dark)](https://roadmap.sh)
+  <img height="180" width="400" src="https://api.roadmap.sh/v1-badge/wide/64a37bced99c9d6731ad2ba1?variant=dark"/>
 </div>
 
 <h2 style="color: #44AEFB">📱 Contato</h2>
