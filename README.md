@@ -47,6 +47,12 @@ const GMarques30 = {
   <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMarques30&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+<h2 style="color: #44AEFB">⭐ Roadmap.sh</h2>
+
+<div align="left">
+  [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64a37bced99c9d6731ad2ba1?variant=dark)](https://roadmap.sh)
+</div>
+
 <h2 style="color: #44AEFB">📱 Contato</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gmarques30/)
