@@ -27,7 +27,7 @@ I face challenges with open arms and am always looking for professional improvem
 
 <div align="left">
   <a href="https://github.com/GMarques30">
-  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMarques30&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMarques30&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
 
 <h2 style="color: #44AEFB, font-size: 24px">Contact</h2>
