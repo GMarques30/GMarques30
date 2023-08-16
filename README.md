@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB">Hi, my name is Giovanni!</h1>
 
-<p style="color: #44AEFB"><img width="32" alt="about" src="https://em-content.zobj.net/thumbs/120/apple/354/technologist-medium-skin-tone_1f9d1-1f3fd-200d-1f4bb.png">React Frontend Developer</p>
+<p style="color: #44AEFB"><img width="32" alt="about" src="https://em-content.zobj.net/thumbs/120/apple/354/technologist-medium-skin-tone_1f9d1-1f3fd-200d-1f4bb.png"> React Frontend Developer</p>
 
 <h2 style="color: #44AEFB">About</h2>
 
@@ -8,14 +8,16 @@ I am a React developer passionate about the world of technology and motivated by
 
 My experience spans a variety of technologies including:
 
-React;
-Next.js;
-TypeScript;
-JavaScript;
-Styled Components;
-Tailwind;
-Sass;
-Git;
+<ul>
+  <li>React;</li>
+  <li>Next.js;</li>
+  <li>TypeScript;</li>
+  <li>JavaScript;</li>
+  <li>Styled Components;</li>
+  <li>Tailwind;</li>
+  <li>Sass;</li>
+  <li>Git;</li>
+</ul>
 
 My skill lies in creating solutions to the problems presented, producing code of excellence and following market standards.
 
