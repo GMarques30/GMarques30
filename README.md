@@ -4,24 +4,24 @@
 
 <h2 style="color: #44AEFB, font-size: 24px">About</h2>
 
-I am a React developer passionate about the world of technology and motivated by the constant challenge of finding solutions.
+I'm a Computer Science student, currently studying Next.js, React.js, JavaScript, TypeScript and Java. My daily dedication is focused on expanding my knowledge in the field of technology.
 
-My experience spans a variety of technologies including:
+I also value sports and the many benefits it brings to my life.
+
+Although I recognize the importance of theory, I firmly believe that practical experience is what really shapes a successful professional.
+
+My experience covers a variety of technologies, including:
 
 <ul>
-  <li>React;</li>
+  <li>React.js;</li>
   <li>Next.js;</li>
-  <li>TypeScript;</li>
   <li>JavaScript;</li>
+  <li>TypeScript;</li>
+  <li>Tailwind CSS;</li>
   <li>Styled Components;</li>
-  <li>Tailwind;</li>
-  <li>Sass;</li>
+  <li>SASS;</li>
   <li>Git;</li>
 </ul>
-
-My skill lies in creating solutions to the problems presented, producing code of excellence and following market standards.
-
-I face challenges with open arms and am always looking for professional improvement. My passion is to evolve every day and grow as a professional.
 
 <h2 style="color: #44AEFB, font-size: 24px">GitHub</h2>
 
