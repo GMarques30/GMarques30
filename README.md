@@ -14,11 +14,11 @@ My experience covers a variety of technologies, including:
 
 <ul>
   <li>React.js;</li>
-  <li>Next.js;</li>
   <li>JavaScript;</li>
   <li>TypeScript;</li>
   <li>Tailwind CSS;</li>
   <li>Styled Components;</li>
+  <li>Bootstrap;</li>
   <li>SASS;</li>
   <li>Git;</li>
 </ul>
