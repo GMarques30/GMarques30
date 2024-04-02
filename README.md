@@ -1,27 +1,27 @@
 <h1 style="color: #44AEFB", font-size: 32px>Hi, my name is Giovanni!</h1>
 
-<p style="color: #44AEFB"><img width="24" alt="about" src="https://em-content.zobj.net/thumbs/120/apple/354/technologist-medium-skin-tone_1f9d1-1f3fd-200d-1f4bb.png"> React Frontend Developer</p>
+<p style="color: #44AEFB"><img width="24" alt="about" src="https://em-content.zobj.net/thumbs/120/apple/354/technologist-medium-skin-tone_1f9d1-1f3fd-200d-1f4bb.png"> Back-end Developer</p>
 
 <h2 style="color: #44AEFB, font-size: 24px">About</h2>
 
-I'm a Computer Science student, currently studying Next.js, React.js, JavaScript, TypeScript and Java. My daily dedication is focused on expanding my knowledge in the field of technology.
+Welcome! My name is Giovanni Marques and I'm a Back-end Developer. I'm currently studying Computer Science.
 
-I also value sports and the many benefits it brings to my life.
+During my professional journey, I was introduced to Back-end development, which aroused my curiosity and thirst for knowledge. The complexity and challenges of this area have motivated me to continue seeking to improve my skills and knowledge.
 
-Although I recognize the importance of theory, I firmly believe that practical experience is what really shapes a successful professional.
-
-My experience covers a variety of technologies, including:
+I'm currently concentrating on courses to acquire new skills and also on developing personal projects using the following technologies:
 
 <ul>
-  <li>React.js;</li>
-  <li>JavaScript;</li>
   <li>TypeScript;</li>
-  <li>Tailwind CSS;</li>
-  <li>Styled Components;</li>
-  <li>Bootstrap;</li>
-  <li>SASS;</li>
+  <li>Node.js;</li>
+  <li>NestJS;</li>
+  <li>Express;</li>
+  <li>PostgreSQL;</li>
+  <li>Prisma;</li>
   <li>Git;</li>
+  <li>GitHub;</li>
 </ul>
+
+In addition, I have a keen interest in software architecture and practices such as SOLID, DDD, MVC, Clean Architecture and Hexagonal Architecture, applying them to my projects to ensure a solid and maintainable structure.
 
 <h2 style="color: #44AEFB, font-size: 24px">GitHub</h2>
 
