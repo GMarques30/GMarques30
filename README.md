@@ -11,10 +11,11 @@ During my professional journey, I was introduced to Back-end development, which 
 I'm currently concentrating on courses to acquire new skills and also on developing personal projects using the following technologies:
 
 <ul>
+  <li>JavaScript;</li>
   <li>TypeScript;</li>
   <li>Node.js;</li>
-  <li>NestJS;</li>
   <li>Express;</li>
+  <li>NestJS;</li>
   <li>PostgreSQL;</li>
   <li>Prisma;</li>
   <li>Git;</li>
