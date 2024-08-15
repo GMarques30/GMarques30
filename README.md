@@ -22,9 +22,10 @@ I'm currently concentrating on courses to acquire new skills and also on develop
   <li>Docker Compose;</li>
   <li>Git;</li>
   <li>GitHub;</li>
+  <li>RabbitMQ;</li>
 </ul>
 
-In addition, I have a keen interest in software architecture and practices such as SOLID, DDD, MVC, Clean Architecture, and Hexagonal Architecture, applying them to my projects to ensure a solid and maintainable structure.
+In addition, I have a keen interest in software architecture and practices such as SOLID, DDD, MVC, Clean Architecture, Hexagonal Architecture, CQRS, Gateway Pattern, Unit of Work, Anti-Corruption Layer, and SAGA.
 
 <h2 style="color: #44AEFB; font-size: 24px">GitHub</h2>
 
