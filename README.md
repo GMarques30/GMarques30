@@ -11,15 +11,15 @@ During my professional journey, I was introduced to Back-end development, which 
 I'm currently concentrating on courses to acquire new skills and also on developing personal projects using the following technologies:
 
 <ul>
-  <li>JavaScript;</li>
-  <li>TypeScript;</li>
-  <li>Node.js;</li>
-  <li>Express;</li>
-  <li>NestJS;</li>
+  <li>Java;</li>
+  <li>Spring Boot;</li>
+  <li>Spring Data;</li>
+  <li>Spring Security;</li>
   <li>PostgreSQL;</li>
-  <li>Prisma;</li>
+  <li>JUnit;</li>
+  <li>Mockito;</li>
+  <li>Github Actions;</li>
   <li>Docker;</li>
-  <li>Docker Compose;</li>
   <li>Git;</li>
   <li>GitHub;</li>
   <li>RabbitMQ;</li>
