@@ -2,24 +2,30 @@
 
 <span style="color: #44AEFB"><img width="24" alt="about" src="https://em-content.zobj.net/thumbs/120/apple/354/technologist-medium-skin-tone_1f9d1-1f3fd-200d-1f4bb.png"> Desenvolvedor back-end</span>
 
-Meu nome é Giovanni Marques, sou desenvolvedor back-end apaixonado por tecnologia. Minha jornada começou no fron-end, onde tive meus primeiros contatos com HTML, CSS, JavaScript e React. A curiosidade em entender de onde vinham os dados apresentados nas interfaces me levaram a explorar o back-end, e logo percebi que era essa a área em que realmente gostaria de seguir como carreira.
+**Principais capacidades técnicas:**
+- Java | Spring Boot | Spring Security | Spring Data | JavaScript | TypeScript | Express
+- REST API | RESTful API
+- PostgreSQL | MySQL | MongoDB | Redis | H2 Database
+- CI/CD | GitHub Actions | Docker | JaCoCo | RabbitMQ
+- Hibernate
+- SOLID | Clean Code
+- Arquitetura Limpa | Arquitetura Hexagonal | Arquitetura Orientada a Eventos | Microserviços | SAGA | CQRS
+- JUnit | Mockito | Testes Unitários | Testes de Integração | Testes E2E
+- DDD | TDD | BDD
 
-Como desenvolvedor back-end, percebi o quanto gosto de estudar conceitos como princípios de desenvolvimento e arquiteturas de software, o que solidificou minha escolha. Ao longo dos desafios enfrentados, adquiri capacidade de desenvolver APIs, implementar testes unitários e de integração, sempre seguindo as melhores práticas do mercado.
+**Padrões de projeto:**
+- Simple Factory | Builder | Singleton | Adapter | Decorator | Bridge | Command | Mediator | Observer | State | Strategy
 
-Além das habilidades técnicas, também possuo competências interpessoais, como adaptabilidade, resolução de problemas, capacidade analítica, trabalho em equipe, comunicação eficaz e, em alguns casos, liderança.
+**Experiência de desenvolvimento:**
+- Scrum | Kanban
+- Git | GitHub
 
-Atualmente, possuo sólida experiência nas seguintes tecnologias e ferramentas:
-
-- **Linguagens:** Java, JavaScript, TypeScript
-- **Frameworks e bibliotecas:** Spring Boot, Spring Security, Spring Data JPA, Express, Node.js
-- **Bancos de dados:** PostgreSQL, MySQL, H2 Database
-- **Testes:** JUnit, Mockito, Jest
-- **CI/CD:** GitHub Actions. SonarQube, JaCoCo
-- **Versionamento e controle de código:** Git, GitHub
-- **Containerização e mensageria:** Docker, RabbitMQ
-- **Metodologias ágeis:** Scrum, Kanban
-- **Princípios e arquiteturas:** SOLID, DDD (Domain-Driven Design), TDD (Test-Driven Development), Clean Architecture (Arquitetura Limpa), Ports and Adapters (Arquitetura Hexagonal), Event-Driven Architecture (Arquitetura Orientada a Eventos), CQRS (Command Query Responsibility Segregation), SAGA
-- **Design patterns:** Simple Factory, Builder, Singleton, Adapter, Decorator, Bridge, Command, Mediator, Observer, State, Strategy
+**Qualidades pessoais:**
+- Comunicação
+- Aprendizado rápido
+- Adaptabilidade
+- Pro atividade
+- Trabalho em equipe
 
 <h2 style="color: #44AEFB; font-size: 24px">GitHub</h2>
 
