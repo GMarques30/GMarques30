@@ -20,13 +20,6 @@
 - Scrum | Kanban
 - Git | GitHub
 
-**Qualidades pessoais:**
-- Comunicação
-- Aprendizado rápido
-- Adaptabilidade
-- Pro atividade
-- Trabalho em equipe
-
 <h2 style="color: #44AEFB; font-size: 24px">GitHub</h2>
 
 <div align="left">
